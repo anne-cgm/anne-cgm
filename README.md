@@ -1,17 +1,10 @@
-<!-- Perfil GitHub de Anne - Estilo Cinnamorrow -->
-
-<p align="center">
-  <img src="" alt="" />
-</p>
-
 <h1 align="center"> Oi! Eu sou a Anne</h1>
 
 ---
 
-</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xThtapPz9F9qTqI0rm/giphy.gif" width="120" alt="Cinnamoroll cloud">
+  <img src="https://i.gifer.com/Pak.gif" width="120" alt="Cinnamoroll cloud">
 </p>
 
 ---
@@ -32,6 +25,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/241c966148ea1fa3cee2a1f06820241ce03144322b90234cbf3c10207b95e4f7/68747470733a2f2f692e70696e696d672e636f6d2f373336782f30632f35662f32382f30633566323865636333653463366531653435633135303965343739613833322e6a7067" width="100%" alt="Cinnamoroll cloud">
+</p>
 
 </p> <p align="center"> <em>“Keep it soft, clean and kind.”</em> </p> 
 
