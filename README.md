@@ -4,7 +4,7 @@
   <img src="" alt="" />
 </p>
 
-<h1 align="center">🌤️ Oi! Eu sou a Anne</h1>
+<h1 align="center"> Oi! Eu sou a Anne</h1>
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-### ☁️ Sobre mim
+### ☁ Sobre mim
 
 - ✨ Amante de design minimalista e código limpo
 - 📚 Estudando: Python, C, Assembly, Git e GitHub
@@ -32,11 +32,6 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=calm&icon_color=87CEEB&title_color=4682B4&text_color=000000" alt="anne-cgm stats" /> </p> <p align="center"> <em>“Keep it soft, clean and kind.”</em> </p> ```
-### Learning
 
----
-
-```txt
-Python • C • Git • GitHub 
+</p> <p align="center"> <em>“Keep it soft, clean and kind.”</em> </p> 
 
