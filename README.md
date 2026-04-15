@@ -65,8 +65,6 @@ Desktop application with graphical user interface
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anne-cgm&layout=compact&theme=tokyonight&locale=pt-br" />
 </p>
 
----
-
 <p align="right">
   <img src="https://media.tenor.com/gZ2OPWCBJrwAAAAj/cinnamoroll-cinnamoroll-sanrio-character.gif" width="200" alt="Cinnamoroll cloud">
 </p>
