@@ -17,6 +17,17 @@
 
 <br>
 
+## 🌱 Currently learning
+
+- 🧠 Data structures and algorithms  
+- 💻 Back-end development with Java  
+- 🗄️ Database fundamentals (SQL)  
+- 📐 Software development methodologies and requirements engineering  
+- 🌐 Computer networks fundamentals  
+- 🎨 UI/UX prototyping with Figma  
+
+<br>
+
 ## 🚀 Featured Projects
 
 - **[Baile das Máscaras](https://github.com/anne-cgm/Baile-das-Mascaras)**  
