@@ -39,8 +39,8 @@ Web application with database integration and back-end evolution
 **Technologies:** HTML, CSS, JavaScript, Java, MySQL  
 
 - **[Study Scheduler](https://github.com/anne-cgm/study-scheduler)**  
-Desktop application with graphical user interface  
-**Technologies:** Java, JavaFX, Maven  
+Desktop study planner with JavaFX, weather API integration, task management, filters and desktop deployment via JDeploy.  
+**Technologies:** Java, JavaFX, Maven, OpenWeather API, Gson, JDeploy
 
 <br>
 
@@ -72,8 +72,8 @@ Desktop application with graphical user interface
 ## 📊 GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anne-cgm&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anne-cgm&layout=compact&theme=tokyonight&locale=pt-br" />
+ <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anne-cgm&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anne-cgm&layout=compact&theme=tokyonight&locale=pt-br" />
 </p>
 
 <p align="right">
